@@ -1,4 +1,4 @@
-package closestvalueinbst
+package main
 
 import (
 	"math"
